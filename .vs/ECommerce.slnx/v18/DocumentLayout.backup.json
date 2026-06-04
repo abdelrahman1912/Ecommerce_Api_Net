@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\python-project\\net\\ECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{969FC349-555F-1218-B322-6A7C51306F5C}|Ecommerce.Angular\\Ecommerce.Angular.esproj|d:\\python-project\\net\\ecommerce\\ecommerce.angular\\src\\app\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{969FC349-555F-1218-B322-6A7C51306F5C}|Ecommerce.Angular\\Ecommerce.Angular.esproj|solutionrelative:ecommerce.angular\\src\\app\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 281,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.css",
+              "DocumentMoniker": "D:\\python-project\\net\\ECommerce\\Ecommerce.Angular\\src\\app\\app.css",
+              "RelativeDocumentMoniker": "Ecommerce.Angular\\src\\app\\app.css",
+              "ToolTip": "D:\\python-project\\net\\ECommerce\\Ecommerce.Angular\\src\\app\\app.css",
+              "RelativeToolTip": "Ecommerce.Angular\\src\\app\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-04T20:28:51.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

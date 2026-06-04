@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Ecommerce.Angular/Ecommerce.Angular.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="ECommerce.db/ECommerce.db.csproj" />
+  <Project Path="ECommerce.lib/ECommerce.lib.csproj" />
+  <Project Path="ECommerce/ECommerce.csproj" />
+</Solution>

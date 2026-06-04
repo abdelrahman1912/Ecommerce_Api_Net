@@ -1,0 +1,12 @@
+D:\python-project\net\ECommerce\ECommerce.lib\bin\Debug\net8.0\ECommerce.lib.deps.json
+D:\python-project\net\ECommerce\ECommerce.lib\bin\Debug\net8.0\ECommerce.lib.dll
+D:\python-project\net\ECommerce\ECommerce.lib\bin\Debug\net8.0\ECommerce.lib.pdb
+D:\python-project\net\ECommerce\ECommerce.lib\obj\Debug\net8.0\ECommerce.lib.csproj.AssemblyReference.cache
+D:\python-project\net\ECommerce\ECommerce.lib\obj\Debug\net8.0\ECommerce.lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\python-project\net\ECommerce\ECommerce.lib\obj\Debug\net8.0\ECommerce.lib.AssemblyInfoInputs.cache
+D:\python-project\net\ECommerce\ECommerce.lib\obj\Debug\net8.0\ECommerce.lib.AssemblyInfo.cs
+D:\python-project\net\ECommerce\ECommerce.lib\obj\Debug\net8.0\ECommerce.lib.csproj.CoreCompileInputs.cache
+D:\python-project\net\ECommerce\ECommerce.lib\obj\Debug\net8.0\ECommerce.lib.dll
+D:\python-project\net\ECommerce\ECommerce.lib\obj\Debug\net8.0\refint\ECommerce.lib.dll
+D:\python-project\net\ECommerce\ECommerce.lib\obj\Debug\net8.0\ECommerce.lib.pdb
+D:\python-project\net\ECommerce\ECommerce.lib\obj\Debug\net8.0\ref\ECommerce.lib.dll

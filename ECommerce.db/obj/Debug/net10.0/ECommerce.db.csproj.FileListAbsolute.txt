@@ -1,0 +1,17 @@
+D:\python-project\net\ECommerce\ECommerce.db\bin\Debug\net10.0\ECommerce.db.deps.json
+D:\python-project\net\ECommerce\ECommerce.db\bin\Debug\net10.0\ECommerce.db.dll
+D:\python-project\net\ECommerce\ECommerce.db\bin\Debug\net10.0\ECommerce.db.pdb
+D:\python-project\net\ECommerce\ECommerce.db\bin\Debug\net10.0\ECommerce.lib.dll
+D:\python-project\net\ECommerce\ECommerce.db\bin\Debug\net10.0\ECommerce.lib.pdb
+D:\python-project\net\ECommerce\ECommerce.db\obj\Debug\net10.0\ECommerce.db.csproj.AssemblyReference.cache
+D:\python-project\net\ECommerce\ECommerce.db\obj\Debug\net10.0\ECommerce.db.GeneratedMSBuildEditorConfig.editorconfig
+D:\python-project\net\ECommerce\ECommerce.db\obj\Debug\net10.0\ECommerce.db.AssemblyInfoInputs.cache
+D:\python-project\net\ECommerce\ECommerce.db\obj\Debug\net10.0\ECommerce.db.AssemblyInfo.cs
+D:\python-project\net\ECommerce\ECommerce.db\obj\Debug\net10.0\ECommerce.db.csproj.CoreCompileInputs.cache
+D:\python-project\net\ECommerce\ECommerce.db\obj\Debug\net10.0\ECommerc.27505831.Up2Date
+D:\python-project\net\ECommerce\ECommerce.db\obj\Debug\net10.0\ECommerce.db.dll
+D:\python-project\net\ECommerce\ECommerce.db\obj\Debug\net10.0\refint\ECommerce.db.dll
+D:\python-project\net\ECommerce\ECommerce.db\obj\Debug\net10.0\ECommerce.db.pdb
+D:\python-project\net\ECommerce\ECommerce.db\obj\Debug\net10.0\ref\ECommerce.db.dll
+D:\python-project\net\ECommerce\ECommerce.db\bin\Debug\net10.0\ECommerce.db.runtimeconfig.json
+D:\python-project\net\ECommerce\ECommerce.db\obj\Debug\net10.0\ECommerce.db.genruntimeconfig.cache
